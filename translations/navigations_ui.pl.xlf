@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">
+  <file id="navigations_ui.en">
+    <unit id="welcIyf" name="extension_name">
+      <segment>
+        <source>extension_name</source>
+        <target>Menus UI</target>
+      </segment>
+    </unit>
+    <unit id="jaS5E8v" name="manage_navigations">
+      <segment>
+        <source>manage_navigations</source>
+        <target>Menu strony</target>
+      </segment>
+    </unit>
+    <unit id="Ob0Fy2E" name="site_management">
+      <segment>
+        <source>site_management</source>
+        <target>Zarządzanie stroną</target>
+      </segment>
+    </unit>
+    <unit id="oDVttCb" name="menu_name">
+      <segment>
+        <source>menu_name</source>
+        <target>Nazwa</target>
+      </segment>
+    </unit>
+    <unit id="IMMIPq." name="menu_unique_name">
+      <segment>
+        <source>menu_unique_name</source>
+        <target>Identyfikator</target>
+      </segment>
+    </unit>
+    <unit id="Kw3N1AA" name="actions">
+      <segment>
+        <source>actions</source>
+        <target>Akcje</target>
+      </segment>
+    </unit>
+    <unit id="SR7tswX" name="edit_menu">
+      <segment>
+        <source>edit_menu</source>
+        <target>Edytuj to menu</target>
+      </segment>
+    </unit>
+    <unit id="d_YxKjJ" name="primary_actions">
+      <segment>
+        <source>primary_actions</source>
+        <target>Główne akcje</target>
+      </segment>
+    </unit>
+    <unit id="j2fjkOO" name="add_item">
+      <segment>
+        <source>add_item</source>
+        <target>Dodaj element</target>
+      </segment>
+    </unit>
+    <unit id="_XWmxCK" name="save_changes">
+      <segment>
+        <source>save_changes</source>
+        <target>Zapisz zmiany</target>
+      </segment>
+    </unit>
+    <unit id="zf8zfYA" name="select_page">
+      <segment>
+        <source>select_page</source>
+        <target>Wybierz stronę lub URL do dodania</target>
+      </segment>
+    </unit>
+    <unit id="kDf0eLI" name="editing_navigation">
+      <segment>
+        <source>editing_navigation</source>
+        <target>Edytowanie menu: %name%</target>
+      </segment>
+    </unit>
+    <unit id=".kdojxv" name="navigations">
+      <segment>
+        <source>navigations</source>
+        <target>Nawigacje</target>
+      </segment>
+    </unit>
+    <unit id="knJ0DzC" name="flash_messages.live_notification">
+      <segment>
+        <source>flash_messages.live_notification</source>
+        <target>Notyfikacja</target>
+      </segment>
+    </unit>
+    <unit id="9WyX_Jx" name="search_page_placeholder">
+      <segment>
+        <source>search_page_placeholder</source>
+        <target>Wyszukaj stronę lub podaj URL</target>
+      </segment>
+    </unit>
+    <unit id="s3Endck" name="add_to_navigation">
+      <segment>
+        <source>add_to_navigation</source>
+        <target>Dodaj do menu</target>
+      </segment>
+    </unit>
+    <unit id="6veyBgU" name="page_search_empty_state">
+      <segment>
+        <source>page_search_empty_state</source>
+        <target>Przepraszamy, nie znaleziono poszukiwanej strony.</target>
+      </segment>
+    </unit>
+    <unit id="Lvzy2gK" name="page_search_request_failed">
+      <segment>
+        <source>page_search_request_failed</source>
+        <target>Wystąpił błąd podczas wyszukiwania strony. Skontaktuj się z twórcą strony aby uzyskać więcej informacji.</target>
+      </segment>
+    </unit>
+    <unit id="J67S.g8" name="remove_item_confirmation">
+      <segment>
+        <source>remove_item_confirmation</source>
+        <target>Czy na pewno usunąć "%item%" z tego menu?</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
